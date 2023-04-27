@@ -1,0 +1,65 @@
+body{
+    color: hotpink;
+    background-color: #091c6a;
+    font-family: 'Poppins', sans-serif;
+}  
+
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: hotpink;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+nav a:hover{
+    color: #091c6a;
+    font-size: 200%;
+}
+
+#title{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.desc{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 550;
+    margin: 0 15em 0 15em;
+    color: violet;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #f1f1f1;
+    padding: 1em 0;
+    padding-top: 2em;
+    width: 100%;
+  }
+  
+  .footer h5 {
+    font-size: 16px;
+  }
+  
+  .footer p {
+    font-size: 12px;
+  }
+
+  .about{
+    padding-bottom: 3em;
+  }

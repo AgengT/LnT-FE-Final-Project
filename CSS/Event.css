@@ -1,0 +1,85 @@
+
+h1{
+    text-align: center;
+    font-weight: 700;
+    padding-top: 1em;
+}
+
+.rangkaian{
+    text-align: center;
+    font-weight: 700;
+}
+
+.rangkaian h1{
+    padding-bottom: 1em;
+}
+
+.rangkaian table{
+    margin: auto;
+}
+
+.rangkaian table th{
+    border: 2px solid white;
+    padding: 1em 1em 1em 1em;
+}
+
+.carousel-inner{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding-top: 2em;
+}
+
+.carousel-control-prev{
+    margin: auto;
+}
+
+.carousel-control-next{
+    margin: auto;
+}
+
+/* Register Form */
+
+.register-form{
+    padding-bottom: 1em;
+}
+
+.register-form h1{
+    padding-bottom: 0.5em;
+}
+
+.register-form form{
+    width: 70%;
+    background-color: hotpink;
+    color: #091c6a;
+    margin: auto;
+    padding: 2em; 
+    border-radius: 1rem;
+}
+
+.register-form form div{
+    display: flex;
+    flex-direction: column;
+    margin: 0.8rem;
+}
+
+button{
+    width: 100%;
+    font-weight: 800;
+    font-size: 2rem;
+    color: hotpink  ;
+    background-color: #091c6a;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 0.5em;
+}
+
+.timeline table{
+    margin: auto;
+    text-align: center;
+}
+
+.timeline th{
+    border: 3px solid white;
+    padding: 2em 2em 2em 2em;
+}
